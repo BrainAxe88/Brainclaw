@@ -1,0 +1,4 @@
+{
+  "name": "Brainclaw — Polymarket FastLoop Trader",
+  "install": "pip3 install --no-input -r requirements.txt"
+}
